@@ -251,4 +251,3 @@ elif page == "User Profile":
 
 # Footer
 st.markdown("---")
-st.markdown("Powered by xAI | Built with Streamlit")
